@@ -5,7 +5,7 @@ import lombok.Setter;
 
 import jakarta.persistence.*;
 import java.util.List;
-import java.util.Locale.Category;
+import com.everyessence.everyessence_backend.model.Category;
 
 @Entity
 @Getter
